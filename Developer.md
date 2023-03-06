@@ -1,4 +1,4 @@
 # TENOLOGY-P1-IFF-1019-CRISTIAN
 PRACTICA 1 DE PROGRAMACION EN AMBIENTE CLIENTE SERVIDOR DE KEVIN DAVID MOLINA GOMEZ
 cristian ruiz aguilar 
-<br> Aqui esta mi comentario
+<br/> Aqui esta mi comentario-Lazaro Emanuel Ramos Velazquez
